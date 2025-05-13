@@ -2,7 +2,7 @@
 Hey there! I'm a CS student who loves building projects, solving tough problems, and turning ideas into products. I’m constantly learning, shipping, and experimenting with new tech.
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/markose-tsegaye-66391a252/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/markose-tsegaye-66391a252/])
 
 ## 💻 Tech Stack  
 
